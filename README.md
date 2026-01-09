@@ -1,20 +1,61 @@
-<<<<<<< HEAD
-# React + Vite
+# Frontend Developer Assignment – Aadrila Technologies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is submitted as part of the Frontend Developer assignment for **Aadrila Technologies Private Limited**. The implementation is strictly based on the provided Figma design, focusing on pixel-perfect UI replication, accurate animations, responsiveness, and clean, modular code structure.
 
-Currently, two official plugins are available:
+Live URL (Vercel):  
+https://aadrila-task.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+GitHub Repository:  
+https://github.com/your-username/your-repository-name
 
-## React Compiler
+Tech Stack (Mandatory):
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Assignment Fulfillment:
+- Pixel-perfect UI and animation behavior as per Figma prototype
+- Logo intro animation followed by smooth navbar and hero section transitions
+- Fully responsive design for mobile and desktop
+- Clean and modular component-based architecture
+- Cross-browser compatible implementation
+- Proper deployment on Vercel
+- Public GitHub repository with documentation
 
-## Expanding the ESLint configuration
+Project Structure:
+src/
+  assets/
+  components/
+    Logo/
+    Navbar/
+    Hero/
+  pages/
+    Home.jsx
+  App.jsx
+  main.jsx
+  index.css
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Aadrila_task
->>>>>>> 604be225c542e342cb5d43cbd3d5f238c7ea1132
+Setup & Run Instructions:
+1. Clone the repository:
+   git clone https://github.com/your-username/your-repository-name.git
+
+2. Navigate to the project directory:
+   cd your-repository-name
+
+3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm run dev
+
+The application will run at:
+http://localhost:5173
+
+Deployment:
+The project is deployed on **Vercel** and the live URL is provided above as part of the submission.
+
+Submission Notes:
+This submission fulfills all requirements mentioned in the assignment guidelines, including design accuracy, animation behavior, responsiveness, code quality, deployment, and documentation.
+
+Author:
+Shivam Prajapati
